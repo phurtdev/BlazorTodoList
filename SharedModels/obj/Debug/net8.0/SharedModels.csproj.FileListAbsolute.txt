@@ -1,0 +1,11 @@
+C:\Users\phurt\source\repos\BlazorTodo\SharedModels\bin\Debug\net8.0\SharedModels.deps.json
+C:\Users\phurt\source\repos\BlazorTodo\SharedModels\bin\Debug\net8.0\SharedModels.dll
+C:\Users\phurt\source\repos\BlazorTodo\SharedModels\bin\Debug\net8.0\SharedModels.pdb
+C:\Users\phurt\source\repos\BlazorTodo\SharedModels\obj\Debug\net8.0\SharedModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phurt\source\repos\BlazorTodo\SharedModels\obj\Debug\net8.0\SharedModels.AssemblyInfoInputs.cache
+C:\Users\phurt\source\repos\BlazorTodo\SharedModels\obj\Debug\net8.0\SharedModels.AssemblyInfo.cs
+C:\Users\phurt\source\repos\BlazorTodo\SharedModels\obj\Debug\net8.0\SharedModels.csproj.CoreCompileInputs.cache
+C:\Users\phurt\source\repos\BlazorTodo\SharedModels\obj\Debug\net8.0\SharedModels.dll
+C:\Users\phurt\source\repos\BlazorTodo\SharedModels\obj\Debug\net8.0\refint\SharedModels.dll
+C:\Users\phurt\source\repos\BlazorTodo\SharedModels\obj\Debug\net8.0\SharedModels.pdb
+C:\Users\phurt\source\repos\BlazorTodo\SharedModels\obj\Debug\net8.0\ref\SharedModels.dll

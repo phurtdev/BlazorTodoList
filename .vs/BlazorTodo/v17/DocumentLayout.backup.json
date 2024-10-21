@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C546905-BC7B-49FC-81EF-0EB8B36E6B6D}|Solution Items{5C546905-BC7B-49FC-81EF-0EB8B36E6B6D}|C:\\Users\\phurt\\source\\repos\\BlazorTodo\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{5C546905-BC7B-49FC-81EF-0EB8B36E6B6D}|Solution Items{5C546905-BC7B-49FC-81EF-0EB8B36E6B6D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\blazortodo\\webclient\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|solutionrelative:webclient\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\blazortodo\\webclient\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|solutionrelative:webclient\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\blazortodo\\webclient\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|solutionrelative:webclient\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\blazortodo\\webclient\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\blazortodo\\webclient\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\blazortodo\\webclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|solutionrelative:webclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\blazortodo\\webclient\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|solutionrelative:webclient\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8A1296-FB15-4F06-B8C1-7F0FF2721099}|TodoApi\\TodoApi.csproj|c:\\users\\phurt\\source\\repos\\blazortodo\\todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8A1296-FB15-4F06-B8C1-7F0FF2721099}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8A1296-FB15-4F06-B8C1-7F0FF2721099}|TodoApi\\TodoApi.csproj|c:\\users\\phurt\\source\\repos\\blazortodo\\todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE8A1296-FB15-4F06-B8C1-7F0FF2721099}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\blazortodo\\webclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|solutionrelative:webclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\blazortodo\\webclient\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|solutionrelative:webclient\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\blazortodo\\webclient\\webclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|solutionrelative:webclient\\webclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8A1296-FB15-4F06-B8C1-7F0FF2721099}|TodoApi\\TodoApi.csproj|c:\\users\\phurt\\source\\repos\\blazortodo\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8A1296-FB15-4F06-B8C1-7F0FF2721099}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8A1296-FB15-4F06-B8C1-7F0FF2721099}|TodoApi\\TodoApi.csproj|c:\\users\\phurt\\source\\repos\\blazortodo\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE8A1296-FB15-4F06-B8C1-7F0FF2721099}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|c:\\users\\phurt\\source\\repos\\blazortodo\\webclient\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A44F35B-3C85-42C3-886F-71B7F71378F8}|WebClient\\WebClient.csproj|solutionrelative:webclient\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771178B9-4D5D-4DAC-A04D-841DAF61D8AC}|SharedModels\\SharedModels.csproj|c:\\users\\phurt\\source\\repos\\blazortodo\\sharedmodels\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771178B9-4D5D-4DAC-A04D-841DAF61D8AC}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:444799957:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-21T16:25:59.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "WebClient\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "WebClient\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T16:19:50.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "WebClient\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "WebClient\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-21T16:13:04.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "WebClient\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\wwwroot\\index.html",
+              "RelativeToolTip": "WebClient\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-21T16:03:15.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\Pages\\Home.razor",
+              "RelativeToolTip": "WebClient\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T15:57:19.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\TodoApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TodoApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\TodoApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TodoApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T15:41:55.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebClient\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebClient\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T15:40:25.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TodoApi",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\TodoApi\\TodoApi.csproj",
+              "RelativeDocumentMoniker": "TodoApi\\TodoApi.csproj",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\TodoApi\\TodoApi.csproj",
+              "RelativeToolTip": "TodoApi\\TodoApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T15:30:45.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\SharedModels\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "SharedModels\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\SharedModels\\Models\\TodoItem.cs",
+              "RelativeToolTip": "SharedModels\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:28:45.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\Program.cs",
+              "RelativeDocumentMoniker": "WebClient\\Program.cs",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\Program.cs",
+              "RelativeToolTip": "WebClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:24:58.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Todo.razor",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\Pages\\Todo.razor",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Todo.razor",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\Pages\\Todo.razor",
+              "RelativeToolTip": "WebClient\\Pages\\Todo.razor",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAqwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T15:18:38.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\TodoApi\\Program.cs",
+              "RelativeToolTip": "TodoApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:22:14.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\wwwroot\\appsettings.json",
+              "RelativeDocumentMoniker": "WebClient\\wwwroot\\appsettings.json",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\wwwroot\\appsettings.json",
+              "RelativeToolTip": "WebClient\\wwwroot\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T15:45:12.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\TodoApi\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\TodoApi\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoApi\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:19:54.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "WebClient\\Services\\TodoService.cs",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\Services\\TodoService.cs",
+              "RelativeToolTip": "WebClient\\Services\\TodoService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:19:20.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\Services\\ITodoService.cs",
+              "RelativeDocumentMoniker": "WebClient\\Services\\ITodoService.cs",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\Services\\ITodoService.cs",
+              "RelativeToolTip": "WebClient\\Services\\ITodoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:19:09.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebClient",
+              "DocumentMoniker": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\WebClient.csproj",
+              "RelativeDocumentMoniker": "WebClient\\WebClient.csproj",
+              "ToolTip": "C:\\Users\\phurt\\source\\repos\\BlazorTodo\\WebClient\\WebClient.csproj",
+              "RelativeToolTip": "WebClient\\WebClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T15:18:41.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
